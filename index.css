@@ -1,0 +1,13 @@
+
+.header {height: 5em;}
+.pure-menu-link {padding: 1.5em 0.9em; font-size: 1.2em;}
+.footer .pure-menu-link {padding: 1.5em 0.9em; font-size: 1em;}
+.pure-table { border: none;  }
+
+.pure-table tr { border: none;  }
+
+.pure-table td { border: none; padding: .45em 0.9em; font-size: 0.96em;}  /*padding: .4em 0.8em; font-size: 1em;*/
+
+.pure-table a:link {color: black; text-decoration: none;}
+.pure-table a:hover {color:silver; text-decoration: none;}
+.pure-table a:visited {color: silver;  text-decoration: none;}
